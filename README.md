@@ -70,7 +70,8 @@ I am always interested in web technology, so If you want to exchange or ask for 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguar-person&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaguar-person&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<h3>My stats in Github</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=jaguar-person">
 
 
 ------------
