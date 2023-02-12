@@ -11,8 +11,6 @@ I am always interested in web technology, so If you want to exchange or ask for 
   <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?logo=javascript&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 </p>
 
 <h3>I code with</h3>
@@ -67,8 +65,8 @@ I am always interested in web technology, so If you want to exchange or ask for 
 
 <h3>Statistics</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguar-person&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaguar-person&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jaguar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguar&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaguar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>My stats in Github</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=jaguar-person">
