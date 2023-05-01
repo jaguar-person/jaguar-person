@@ -59,7 +59,6 @@ I am always interested in web technology, so If you want to exchange or ask for 
 
 <h3>Demo</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=Derek_Portfolio)](https://github.com/jaguar-person/Derek_Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=betting-site)](https://github.com/jaguar-person/betting-site)
 
 <h3>Statistics</h3>
