@@ -64,7 +64,7 @@ I am always interested in web technology, so If you want to exchange or ask for 
 <h3>Statistics</h3>
 
 ![Jaguar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguar-person&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaguar-person&layout=compact)](https://github.com/jaguar-person/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittyAndpuppy&layout=compact)](https://github.com/kittyAndpuppy/github-readme-stats)
 
 <h3>My stats in Github</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=jaguar-person">
