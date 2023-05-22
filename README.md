@@ -59,15 +59,15 @@ I am always interested in web technology, so If you want to exchange or ask for 
 
 <h3>Demo</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=betting-site)](https://github.com/jaguar-person/betting-site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguarperson&repo=betting-site)](https://github.com/jaguarperson/betting-site)
 
 <h3>Statistics</h3>
 
-![Jaguar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguar-person&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaguar-person&layout=compact)](https://github.com/jaguar-person/github-readme-stats)
+![Jaguar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguarperson&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaguarperson&layout=compact)](https://github.com/jaguarperson/github-readme-stats)
 
 <h3>My stats in Github</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=jaguar-person">
+<img src="https://github-profile-trophy.vercel.app/?username=jaguarperson">
 
 
 ------------
