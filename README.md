@@ -63,8 +63,6 @@ I am always interested in web technology, so If you want to exchange or ask for 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=betting-fire__Nuxt)](https://github.com/jaguar-person/betting-fire__Nuxt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=zero-to-hero-nuxt)](https://github.com/jaguar-person/zero-to-hero-nuxt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=happy-shopping)](https://github.com/jaguar-person/happy-shopping)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=bet-app__React-Native)](https://github.com/jaguar-person/bet-app__React-Native)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=easy-travel__Flutter)](https://github.com/jaguar-person/easy-travel__Flutter)
 
 <h3>Statistics</h3>
 
