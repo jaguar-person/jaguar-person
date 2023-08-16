@@ -60,6 +60,11 @@ I am always interested in web technology, so If you want to exchange or ask for 
 <h3>Demo</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=betting-site)](https://github.com/jaguar-person/betting-site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=bettingFire_Nuxt)](https://github.com/jaguar-person/bettingFire_Nuxt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=zero-to-hero-nuxt)](https://github.com/jaguar-person/zero-to-hero-nuxt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=Easy_Shopping)](https://github.com/jaguar-person/Easy_Shopping)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=BetApp_React-Native)](https://github.com/jaguar-person/BetApp_React-Native)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=EasyTravel_Flutter)](https://github.com/jaguar-person/EasyTravel_Flutter)
 
 <h3>Statistics</h3>
 
