@@ -60,11 +60,11 @@ I am always interested in web technology, so If you want to exchange or ask for 
 <h3>Demo</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=betting-site)](https://github.com/jaguar-person/betting-site)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=bettingFire_Nuxt)](https://github.com/jaguar-person/bettingFire_Nuxt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=betting-fire__Nuxt)](https://github.com/jaguar-person/betting-fire__Nuxt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=zero-to-hero-nuxt)](https://github.com/jaguar-person/zero-to-hero-nuxt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=Happy-Shopping)](https://github.com/jaguar-person/Happy-Shopping)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=BetApp_React-Native)](https://github.com/jaguar-person/BetApp_React-Native)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=EasyTravel_Flutter)](https://github.com/jaguar-person/EasyTravel_Flutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=happy-shopping)](https://github.com/jaguar-person/happy-shopping)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=bet-app__React-Native)](https://github.com/jaguar-person/bet-app__React-Native)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-person&repo=easy-travel__Flutter)](https://github.com/jaguar-person/easy-travel__Flutter)
 
 <h3>Statistics</h3>
 
